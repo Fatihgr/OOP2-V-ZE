@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProfileApp.ProfileUI">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Entry  Text="Hesabım" TextColor="Black" FontAttributes="Bold" FontSize="32" HorizontalTextAlignment="Center"></Entry>
+            <Picker Margin="10,0" Title="Hesap Bilgilerim"  TitleColor="Black" x:Name="bilgilerim" HorizontalOptions="FillAndExpand">
+                <Picker.Items>
+                    <x:String>Adreslerim</x:String>
+                    <x:String>Siparişlerim</x:String>
+                    <x:String>İptal İade işlemlerim</x:String>
+                    <x:String>Stok Bildirimlerim</x:String>
+                    <x:String>Favori Listem</x:String>
+                    <x:String>Fiyat Alarmı</x:String>
+                </Picker.Items>
+            </Picker>
+            <Entry Text="Ad*" TextColor="Red"  FontSize="Small" HorizontalTextAlignment="Start"></Entry>
+            
+            <Entry   Placeholder="Fatih" HorizontalTextAlignment="Start" TextColor="Black" PlaceholderColor="Gray"></Entry>
+            <Entry Text="Soyad*" TextColor="Red"  FontSize="Small" HorizontalTextAlignment="Start"></Entry>
+            <Entry  Placeholder="Gör" HorizontalTextAlignment="Start" TextColor="Black" PlaceholderColor="Gray"></Entry>
+            <Entry Text="E-Posta*" TextColor="Red"  FontSize="Small" HorizontalTextAlignment="Start"></Entry>
+            <Entry  Placeholder="fatihgor@gmail.com" HorizontalTextAlignment="Start" TextColor="Black" PlaceholderColor="Gray"></Entry>
+            <Entry Text="Telefon*" TextColor="Red"  FontSize="Small" HorizontalTextAlignment="Start"></Entry>
+            <Entry  Placeholder="545454544" HorizontalTextAlignment="Start" TextColor="Black" PlaceholderColor="Gray"></Entry>
+
+            <Picker Margin="10,0" Title="İl"  TitleColor="Black" x:Name="il" HorizontalOptions="FillAndExpand">
+                <Picker.Items>
+                    <x:String>İstanbul</x:String>
+                    <x:String>Yalova</x:String>
+                    <x:String>Sivas</x:String>
+                    <x:String>Batman</x:String>
+                    <x:String>Edirne</x:String>
+                    <x:String>Tıkla Gel Al</x:String>
+                </Picker.Items>
+            </Picker>
+
+            <Picker Margin="10,0" Title="İlçe"  TitleColor="Black" x:Name="ilce" HorizontalOptions="FillAndExpand">
+                <Picker.Items>
+                    <x:String>Sisli</x:String>
+                    <x:String>Kartal</x:String>
+                    <x:String>Pendik</x:String>
+                    <x:String>Fatih</x:String>
+                   
+                </Picker.Items>
+            </Picker>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Picker Grid.Column="0" Grid.Row="0" Margin="10,0" Title="Gün"  TitleColor="Black" x:Name="gun" HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Sisli</x:String>
+                        <x:String>Kartal</x:String>
+                        <x:String>Pendik</x:String>
+                        <x:String>Fatih</x:String>
+
+                    </Picker.Items>
+                </Picker>
+                <Picker Grid.Column="1" Grid.Row="0" Margin="10,0" Title="Ay"  TitleColor="Black" x:Name="ay" HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Sisli</x:String>
+                        <x:String>Kartal</x:String>
+                        <x:String>Pendik</x:String>
+                        <x:String>Fatih</x:String>
+
+                    </Picker.Items>
+                </Picker>
+                <Picker Grid.Column="2" Grid.Row="0" Margin="10,0" Title="Yıl "  TitleColor="Black" x:Name="yil" HorizontalOptions="FillAndExpand">
+                    <Picker.Items>
+                        <x:String>Sisli</x:String>
+                        <x:String>Kartal</x:String>
+                        <x:String>Pendik</x:String>
+                        <x:String>Fatih</x:String>
+
+                    </Picker.Items>
+                </Picker>
+            </Grid>
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    
+                    
+                </Grid.ColumnDefinitions>
+                <CheckBox Grid.Row="0" Grid.Column="0"></CheckBox>
+                <Label FontSize="Small" Grid.Row="0" Grid.Column="1" VerticalTextAlignment="Center" Text="Erkek" TextColor="Black"></Label>
+                <CheckBox Grid.Row="0" Grid.Column="2"></CheckBox>
+                <Label FontSize="Small" Grid.Row="0" Grid.Column="3" Text="Kadın" VerticalTextAlignment="Center" TextColor="Black"></Label>
+            </Grid>
+
+            <Entry  Text="Adım Kart" TextColor="Black" FontAttributes="Bold" FontSize="18" HorizontalTextAlignment="Start"></Entry>
+
+            <Entry  Text="Üyelik Tipi:  ADIM KART KLASİK" TextColor="Black" FontSize="18" HorizontalTextAlignment="Start"></Entry>
+            <Entry  Text="Puanı      :  PUANINIZ BULUNMAMAKTADIR" TextColor="Black"  FontSize="18" HorizontalTextAlignment="Start"></Entry>
+            <Button x:Name="kurumsalbtn" Text="KAYDET" FontSize="Large" BackgroundColor="Black" TextColor="White" HorizontalOptions="Start">
+            </Button>
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

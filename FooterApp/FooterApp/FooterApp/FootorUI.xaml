@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FooterApp.FootorUI"
+             BackgroundColor="Black">
+    <ContentPage.Content>
+        <StackLayout  Padding="40" HorizontalOptions="FillAndExpand">
+            <Entry Text="E-Bülten" TextColor="White" FontSize="20"></Entry>
+            <Entry Text="Kampanyalardan haberdar olmak için iletişimde kalın." TextColor="White" FontSize="13"></Entry>
+            <Entry  Placeholder="Email Adresinizi giriniz" TextColor="White" PlaceholderColor="Gray"></Entry>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <CheckBox Grid.Row="0" Grid.Column="0"></CheckBox>
+                <Label FontSize="Small" Grid.Row="0" Grid.Column="1" Text="Gizlilik sözleşmesini okudum ve kabul ediyorum" TextColor="White"></Label>
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image Margin="0,15,0,0" Source="youtube.png" Grid.Row="0" Grid.Column="0" WidthRequest="180"></Image>
+                <Image Margin="0,15,0,0" Source="instagram.png" Grid.Row="0" Grid.Column="1" WidthRequest="180"></Image>
+                <Image Margin="0,15,0,0" Source="youtube.png" Grid.Row="0" Grid.Column="2" WidthRequest="180"></Image>
+                <Image Margin="0,15,0,0" Source="instagram.png" Grid.Row="0" Grid.Column="3" WidthRequest="180"></Image>
+                </Grid>
+
+            <Button x:Name="kurumsalbtn" Text="Kurumsal" FontSize="Large" BackgroundColor="Transparent" TextColor="White" HorizontalOptions="Start">
+            </Button>
+
+            <Picker Margin="0" Title="Kurumsal"  TitleColor="White" x:Name="kurumsal" HorizontalOptions="FillAndExpand">
+                <Picker.Items>
+                    <x:String>Hakkımızda</x:String>
+                    <x:String>Kariyer</x:String>
+                    <x:String>Gizlilik ve Çerez Politikası</x:String>
+                    <x:String>Kişisel Verilerin Korunması</x:String>
+                    <x:String>Bilgi Toplumu Hizmetleri</x:String>
+                </Picker.Items>
+            </Picker>
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="0.5" Color="White"/>
+            <Picker Margin="0" Title="Yardım"  TitleColor="White" x:Name="yardim" HorizontalOptions="FillAndExpand">
+                <Picker.Items>
+                    <x:String>Sıkça sorulan Sorular</x:String>
+                    <x:String>Adım Kart SSS</x:String>
+                    <x:String>İnternet Sitesi Kullanım Koşulları</x:String>
+                    <x:String>Güvenlik ve Gizlilik Politikası</x:String>
+                    <x:String>İptal ve İade Şartları</x:String>
+                    <x:String>Tıkla Gel Al</x:String>
+                </Picker.Items>
+            </Picker>
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="0.5" Color="White"/>
+            <Picker Margin="0" Title="Üyelik"  TitleColor="White" x:Name="uyelik" HorizontalOptions="FillAndExpand">
+                <Picker.Items>
+                    <x:String>Üye Girişi</x:String>
+                    <x:String>Üye Ol</x:String>
+                    <x:String>Sipariş Takibi</x:String>
+                </Picker.Items>
+            </Picker>
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="0.5" Color="White"/>
+            <Picker Margin="0" Title="İletişim"  TitleColor="White" x:Name="iletisim" HorizontalOptions="FillAndExpand">
+                <Picker.Items>
+                    <x:String>Adres:
+Rüzgarlıbahçe Mahallesi
+Çam Pınarı Sokak
+Esas Plaza No:8
+Kavacık / Beykoz / İstanbul
+
+
+Müşteri Hizmetleri:
+Tel: 0(850) 622 70 02
+İletişim</x:String>
+                    
+                </Picker.Items>
+            </Picker>
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="0.5" Color="White"/>
+            
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

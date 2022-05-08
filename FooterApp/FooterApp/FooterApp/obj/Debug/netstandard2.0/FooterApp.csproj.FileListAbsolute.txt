@@ -1,0 +1,16 @@
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\bin\Debug\netstandard2.0\FooterApp.deps.json
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\bin\Debug\netstandard2.0\FooterApp.dll
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\bin\Debug\netstandard2.0\FooterApp.pdb
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FooterApp.csproj.AssemblyReference.cache
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FooterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FootorUI.xaml.g.cs
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FooterApp.AssemblyInfoInputs.cache
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FooterApp.AssemblyInfo.cs
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FooterApp.csproj.CoreCompileInputs.cache
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FooterApp.dll
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\refint\FooterApp.dll
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\FooterApp.pdb
+C:\Users\musa.kavus\source\repos\FooterApp\FooterApp\FooterApp\obj\Debug\netstandard2.0\ref\FooterApp.dll

@@ -1,0 +1,16 @@
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\bin\Debug\netstandard2.0\ProfileApp.deps.json
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\bin\Debug\netstandard2.0\ProfileApp.dll
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\bin\Debug\netstandard2.0\ProfileApp.pdb
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileApp.csproj.AssemblyReference.cache
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileUI.xaml.g.cs
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileApp.AssemblyInfoInputs.cache
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileApp.AssemblyInfo.cs
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileApp.csproj.CoreCompileInputs.cache
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileApp.dll
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\refint\ProfileApp.dll
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ProfileApp.pdb
+C:\Users\musa.kavus\source\repos\ProfileApp\ProfileApp\ProfileApp\obj\Debug\netstandard2.0\ref\ProfileApp.dll

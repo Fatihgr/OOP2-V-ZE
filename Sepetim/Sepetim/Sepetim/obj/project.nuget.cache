@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "BoJhuAxZwpj5VcW6Aepcpp1ctKQ0+NRz0Ndfi4o4FNm9hDhfWcKWf3nFrXlpotpWX/EnmYrIvIy4XyjkW9buAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\musa.kavus\\source\\repos\\Sepetim\\Sepetim\\Sepetim\\Sepetim.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musa.kavus\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\musa.kavus\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\musa.kavus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\musa.kavus\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\musa.kavus\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="header.header">
+    <ContentPage.Content>
+        
+        <StackLayout>
+            <Entry HorizontalTextAlignment="Center" Background="black" TextColor="White" Text="Sepette 150 TL'ye varan İndirimi Kaçırma" FontSize="Small"></Entry>
+            <Grid Padding="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="5*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Image Source="menu.png" Grid.Row="0" Grid.Column="0"></Image>
+                <Label VerticalTextAlignment="Center" FontSize="Large" Grid.Row="0" Grid.Column="1" Text="AYAKKABI   DUNYASI " TextColor="Black"></Label>
+                <Image Source="account.png" Grid.Row="0" Grid.Column="2"></Image>
+                <Image Source="shopping.png" Grid.Row="0" Grid.Column="3"></Image>
+            </Grid>
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="0.5" Color="Black"/>
+            
+         
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

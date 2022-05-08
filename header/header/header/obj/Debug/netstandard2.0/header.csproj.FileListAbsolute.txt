@@ -1,0 +1,16 @@
+C:\Users\musa.kavus\source\repos\header\header\header\bin\Debug\netstandard2.0\header.deps.json
+C:\Users\musa.kavus\source\repos\header\header\header\bin\Debug\netstandard2.0\header.dll
+C:\Users\musa.kavus\source\repos\header\header\header\bin\Debug\netstandard2.0\header.pdb
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.csproj.AssemblyReference.cache
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.xaml.g.cs
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.AssemblyInfoInputs.cache
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.AssemblyInfo.cs
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.csproj.CoreCompileInputs.cache
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.dll
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\refint\header.dll
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\header.pdb
+C:\Users\musa.kavus\source\repos\header\header\header\obj\Debug\netstandard2.0\ref\header.dll

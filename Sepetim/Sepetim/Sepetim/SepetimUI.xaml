@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Sepetim.SepetimUI">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Margin="10" Source="shopping.png" HorizontalOptions="Center"></Image>
+            <Entry Text="Alışveriş Sepetiniz Boş" HorizontalTextAlignment="Center" TextColor="Black" FontSize="24" ></Entry>
+            <Button Padding="20" FontSize="24" Text="Anasayfaya Dön" BackgroundColor="Black" TextColor="White" FontAttributes="Bold"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

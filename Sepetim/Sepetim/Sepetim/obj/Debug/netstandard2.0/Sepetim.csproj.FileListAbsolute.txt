@@ -1,0 +1,16 @@
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\bin\Debug\netstandard2.0\Sepetim.deps.json
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\bin\Debug\netstandard2.0\Sepetim.dll
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\bin\Debug\netstandard2.0\Sepetim.pdb
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\Sepetim.csproj.AssemblyReference.cache
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\Sepetim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\SepetimUI.xaml.g.cs
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\Sepetim.AssemblyInfoInputs.cache
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\Sepetim.AssemblyInfo.cs
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\Sepetim.csproj.CoreCompileInputs.cache
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\Sepetim.dll
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\refint\Sepetim.dll
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\Sepetim.pdb
+C:\Users\musa.kavus\source\repos\Sepetim\Sepetim\Sepetim\obj\Debug\netstandard2.0\ref\Sepetim.dll
